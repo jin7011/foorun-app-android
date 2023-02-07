@@ -1,1 +1,1 @@
-# foorun-app-android
+# FooRun-app-android
